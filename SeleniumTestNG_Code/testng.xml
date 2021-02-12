@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG Test Application Automation suite">
+	<test name="Different testng Feature Test">
+	<parameter name= "username" value="mohammedsaif5496@gmail.com"/>
+	<parameter name= "password" value="Saif5496@"/>	
+		<classes>
+			<class name ="testCode.AmazonApp_Test" /> 
+			<class name ="testCode.FlipkartApp_Test" />
+		</classes>
+	</test>
+</suite>
