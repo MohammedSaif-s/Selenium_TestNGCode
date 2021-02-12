@@ -28,7 +28,7 @@
 				<version>3.0.0-M5</version>
 				<configuration>
 					<includes>
-						<include>AmazonAppTest.java</include>
+						<include>AmazonApp_Test.java</include>
 					</includes>
 					<!-- <suiteXmlFiles> 
 						<suiteXmlFile>testng.xml</suiteXmlFile>
